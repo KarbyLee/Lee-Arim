@@ -1,4 +1,4 @@
-<h1 align="center">Lee-A-Rim</h1>
+<h1 align="center">Lee Arim</h1>
 
 <div align="center">
 <h3>😄 Profile</h3>
